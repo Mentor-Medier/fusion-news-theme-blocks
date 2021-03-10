@@ -1,6 +1,6 @@
 {
   "name": "@mentor-medier/extra-large-manual-promo-block",
-  "version": "5.10.0",
+  "version": "5.10.2",
   "description": "Fusion News Theme Extra Large Manual Promo block",
   "author": "Brent Miller <brent.miller@washpost.com>",
   "homepage": "https://github.com/mentor-medier/fusion-news-theme-blocks",
@@ -28,8 +28,8 @@
     "@arc-fusion/prop-types": "^0.1.5",
     "@wpmedia/engine-theme-sdk": "canary",
     "@wpmedia/news-theme-css": "stable",
-    "@wpmedia/shared-styles": "canary",
     "@wpmedia/resizer-image-block": "canary",
+    "@wpmedia/shared-styles": "canary",
     "styled-components": "^4.4.0"
   },
   "gitHead": "9a4082d79cb66c23454d8a3ff83809b4e13f760c"

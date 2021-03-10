@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.10.2](https://github.com/Mentor-Medier/fusion-news-theme-blocks/compare/v5.10.1...v5.10.2) (2021-03-10)
+
+
+### Bug Fixes
+
+* Add test for handling show image with just defaults, no link url ([2c9f00e](https://github.com/Mentor-Medier/fusion-news-theme-blocks/commit/2c9f00e402ff178df2b9869eab7286f39cc2e551))
+
+
+
+# [5.10.0](https://github.com/Mentor-Medier/fusion-news-theme-blocks/compare/v5.9.15...v5.10.0) (2021-02-17)
+
+
+
+
+
 ## [5.9.17](https://github.com/Mentor-Medier/fusion-news-theme-blocks/compare/v5.9.15...v5.9.17) (2021-02-18)
 
 

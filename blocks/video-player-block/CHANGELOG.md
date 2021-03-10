@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.10.2](https://github.com/mentor-medier/fusion-news-theme-blocks/compare/v5.10.1...v5.10.2) (2021-03-10)
+
+
+
+# [5.10.0](https://github.com/mentor-medier/fusion-news-theme-blocks/compare/v5.9.15...v5.10.0) (2021-02-17)
+
+**Note:** Version bump only for package @mentor-medier/video-player-block
+
+
+
+
+
 ## [5.9.13](https://github.com/mentor-medier/fusion-news-theme-blocks/compare/v5.9.12...v5.9.13) (2021-01-12)
 
 
