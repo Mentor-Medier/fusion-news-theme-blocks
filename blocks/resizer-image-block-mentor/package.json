@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare1": "npx babel --root-mode upward . -d ./dist -D --ignore **/dist"
+    "prepare": "npx babel --root-mode upward . -d ./dist -D --ignore **/dist"
   },
   "repository": {
     "type": "git",
