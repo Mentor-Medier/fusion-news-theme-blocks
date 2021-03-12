@@ -2,10 +2,10 @@
   "name": "@mentor-medier/resizer-image-block-mentor",
   "version": "5.10.3",
   "description": "Takes a raw image url and uses thumbor to create resize urls",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "npx babel --root-mode upward . -d ./dist -D --ignore **/dist"
+    "prepare1": "npx babel --root-mode upward . -d ./dist -D --ignore **/dist"
   },
   "repository": {
     "type": "git",
@@ -33,11 +33,7 @@
     "@wpmedia/engine-theme-sdk": "canary",
     "thumbor-lite": "^0.1.8"
   },
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ]
+
+  
+  "gitHead": "c29a52c8c00ac37f5e33b7f0cc3a85b8735018e8"
 }
