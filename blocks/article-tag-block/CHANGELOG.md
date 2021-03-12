@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.10.0](https://github.com/mentor-medier/fusion-news-theme-blocks/compare/v5.9.15...v5.10.0) (2021-02-17)
+
+**Note:** Version bump only for package @mentor-medier/article-tag-block
+
+
+
+
+
 ## [5.9.2](https://github.com/WPMedia/fusion-news-theme-blocks/compare/v5.9.1...v5.9.2) (2021-01-14)
 
 
