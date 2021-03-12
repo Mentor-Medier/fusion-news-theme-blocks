@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.10.2](https://github.com/mentor-medier/fusion-news-theme-blocks/compare/v5.10.1...v5.10.2) (2021-03-12)
+
+
+
+# [5.10.0](https://github.com/mentor-medier/fusion-news-theme-blocks/compare/v5.9.15...v5.10.0) (2021-02-17)
+
+**Note:** Version bump only for package @mentor-medier/text-output-block
+
+
+
+
+
 # [5.10.0](https://github.com/mentor-medier/fusion-news-theme-blocks/compare/v5.9.15...v5.10.0) (2021-02-17)
 
 **Note:** Version bump only for package @mentor-medier/text-output-block
