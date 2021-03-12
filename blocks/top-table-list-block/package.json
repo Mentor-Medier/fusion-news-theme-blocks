@@ -28,6 +28,7 @@
     "@mentor-medier/resizer-image-block-mentor": "beta",
     "@wpmedia/shared-styles": "canary",
     "@wpmedia/video-player-block": "stable",
+    "@mentor-medier/resizer-image-block-mentor" :"beta",
     "styled-components": "^4.4.0"
   },
   "scripts": {
