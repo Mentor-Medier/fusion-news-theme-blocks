@@ -25,7 +25,7 @@
     "@wpmedia/news-theme-css": "stable",
     "@wpmedia/overline-block": "canary",
     "@wpmedia/placeholder-image-block": "canary",
-    "@wpmedia/resizer-image-block": "canary",
+    "@mentor-medier/resizer-image-block-mentor": "beta",
     "@wpmedia/shared-styles": "canary",
     "@wpmedia/video-player-block": "stable",
     "styled-components": "^4.4.0"
