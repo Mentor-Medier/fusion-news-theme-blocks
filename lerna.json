@@ -2,7 +2,7 @@
   "packages": [
     "blocks/*"
   ],
-  "version": "5.10.2",
+  "version": "5.10.3",
   "ignoreChanges": [
     "**/node_modules/**",
     "**/package-lock.json"

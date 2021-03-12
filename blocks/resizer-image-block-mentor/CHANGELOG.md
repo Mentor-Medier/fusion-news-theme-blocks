@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.10.3](https://github.com/mentor-medier/fusion-news-theme-blocks/compare/v5.10.1...v5.10.3) (2021-03-12)
+
+**Note:** Version bump only for package @mentor-medier/resizer-image-block-mentor
+
+
+
+
+
 ## [5.10.2](https://github.com/mentor-medier/fusion-news-theme-blocks/compare/v5.10.1...v5.10.2) (2021-03-12)
 
 **Note:** Version bump only for package @mentor-medier/resizer-image-block-mentor
